@@ -1,0 +1,16 @@
+
+.aboutTitleDiv{
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.aboutTitle{
+    margin-left: 18%
+}
+
+.contactTitle{
+    margin-left: 10%;
+}

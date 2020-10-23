@@ -1,0 +1,16 @@
+.card-deck{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+
+.projectsContainer{
+    border-bottom: 5px solid green;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+
+.sectTitle{
+    margin-left: 100px;
+}

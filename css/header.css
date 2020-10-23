@@ -1,0 +1,8 @@
+.jumbotron {
+    background: url("../assets/TreeInWater.jpg") center bottom;
+    background-size: cover;
+}
+
+li {
+    margin-left: 10px;
+}
