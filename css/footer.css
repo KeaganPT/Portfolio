@@ -1,0 +1,15 @@
+footer{
+    background-color:#343a40;
+    color: #94989c;
+
+}
+
+.footDiv{
+    text-align: center;    
+}
+
+.footImg{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+}
