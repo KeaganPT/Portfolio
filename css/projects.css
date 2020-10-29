@@ -2,17 +2,18 @@
     width: 80%;
     margin-left: 10%;
     margin-bottom: 20px;
+    min-height: 440px
 }
 
 .projectsContainer{
-    border-bottom: 5px solid green;
+    border-bottom: 5px solid rgb(2, 148, 2);
     width: 90%;
     margin-left: 5%;
     margin-bottom: 10px;
 }
 
 #top{
-    border-top: 5px solid green;
+    border-top: 5px solid rgb(2, 148, 2);
 }
 
 .sectTitle{
@@ -51,7 +52,7 @@
     position:absolute;
     top:0;
     left:0;
-    padding:20% 5% 0% 5% ;
+    padding:15% 5% 0% 5% ;
     display:inline-block;
     text-align: center;
     font-size: 20px;

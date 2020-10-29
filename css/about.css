@@ -6,7 +6,7 @@
     margin-bottom: 10px;
     display: flex;
     justify-content: space-around;
-    border-bottom: 5px solid green;
+    border-bottom: 5px solid rgb(2, 148, 2);
 }
 
 .aboutTitle{
