@@ -6,7 +6,7 @@
     margin-bottom: 10px;
     display: flex;
     justify-content: space-around;
-    border-bottom: 5px solid #A7996B;
+    border-bottom: 5px solid #E8BF55;
 }
 
 .aboutTitle{
@@ -49,5 +49,9 @@ textarea{
 }
 
 a:hover {
-    color: white;    
+    color: #D34D6F;    
+}
+
+a{
+    color: #D34D6F
 }
