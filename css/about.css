@@ -43,3 +43,11 @@ textarea{
     width:210px;
     height:100px;
 }
+
+#resume{
+    font-weight: 600;
+}
+
+a:hover {
+    color: white;    
+}
