@@ -6,20 +6,20 @@
     margin-bottom: 10px;
     display: flex;
     justify-content: space-around;
-    border-bottom: 5px solid rgb(2, 148, 2);
+    border-bottom: 5px solid #A7996B;
 }
 
 .aboutTitle{
     margin-left: 0%;
     padding-left: 27%;
-    border-left: 5px solid black;
+    border-left: 5px solid #261c3b;
 }
 
 .contactTitle{
     margin-left: 11%;
     padding-left: 2.5%;
-    border-left: 5px solid black; 
-    border-right: 5px solid black;
+    border-left: 5px solid #261c3b; 
+    border-right: 5px solid #261c3b;
     padding-right:2.5%;
 }
 

@@ -1,6 +1,7 @@
 .jumbotron {
     background: url("../assets/TreeInWater.jpg") center bottom;
     background-size: cover;
+    height: 400px;
 }
 
 li {
